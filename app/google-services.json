@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "684592407074",
+    "firebase_url": "https://aquinojunickexam2.firebaseio.com",
+    "project_id": "aquinojunickexam2",
+    "storage_bucket": "aquinojunickexam2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684592407074:android:43b06a3e03f71dd7",
+        "android_client_info": {
+          "package_name": "com.aquino.exam2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "684592407074-85ts7r7gelfrruhd86fnh5nfn7rf2kut.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aquino.exam2",
+            "certificate_hash": "cf9e2a6b8418ba9d5f599b41ee38cda581aef670"
+          }
+        },
+        {
+          "client_id": "684592407074-8utb84bvvkfchpjlb4d38luovb17itci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWmheVHALiSPmfhT2ntNcQlO6Q8HA70H4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "684592407074-8utb84bvvkfchpjlb4d38luovb17itci.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
